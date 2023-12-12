@@ -2,8 +2,8 @@
 
 My name is Aly, a *M.Sc. Computer Science student* at `Northeastern University`.
 - 😶‍🌫️ I’m currently a **Cloud Engineer intern** at **SAP**
-- 🧠 I’m currently learning **Go**, **Docker**, and **AWS**
 - 🌍 I'm based in Vancouver, BC, but originally from Cairo, Egypt
+- 🧠 I’m currently learning **Go**, **Docker**, and **AWS**
 - ⚡ Fun fact: I'm a Japanese-history buff 🤓
 
 ### Where to find me
